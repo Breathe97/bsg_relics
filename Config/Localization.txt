@@ -1,380 +1,381 @@
-Key,File,Type,UsedInMainMenu,NoTranslate,english
+Key,File,Type,UsedInMainMenu,NoTranslate,english,schinese
 
 
-modRelicHeatsink,item_modifiers,Mod,,,"Relic: Heatsink"
-relicHeatsinkBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nAttempts to absorb Burning debuffs when you are Burning."
-buffRelicHeatsinkName,buffs,Buff,,,Relic: Heatsink
-buffRelicHeatsinkDesc,buffs,Buff,,,Attempts to absorb Burning debuffs when you are Burning.
+modRelicHeatsink,item_modifiers,Mod,,,"Relic: Heatsink","遗物：散热器"
+relicHeatsinkBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nAttempts to absorb Burning debuffs when you are Burning.","可镶嵌于胸甲物品。\n当你处于燃烧状态时，尝试吸收燃烧减益。"
+buffRelicHeatsinkName,buffs,Buff,,,Relic: Heatsink,"遗物：散热器"
+buffRelicHeatsinkDesc,buffs,Buff,,,Attempts to absorb Burning debuffs when you are Burning.,"当你处于燃烧状态时，尝试吸收燃烧减益。"
 
 
-modRelicBlastguard,item_modifiers,Mod,,,"Relic: Blastguard"
-relicBlastguardBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nGrants +50 Explosion Resist"
-buffRelicBlastguardName,buffs,Buff,,,Relic: Blastguard
-buffRelicBlastguardDesc,buffs,Buff,,,Grants major value to Explosive Resist.
+modRelicBlastguard,item_modifiers,Mod,,,"Relic: Blastguard","遗物：防爆护盾"
+relicBlastguardBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nGrants +50 Explosion Resist","可镶嵌于胸甲物品。\n+50 爆炸抗性"
+buffRelicBlastguardName,buffs,Buff,,,Relic: Blastguard,"遗物：防爆护盾"
+buffRelicBlastguardDesc,buffs,Buff,,,Grants major value to Explosive Resist.,"大幅提升爆炸抗性。"
 
 
-modRelicContainedEnergy,item_modifiers,Mod,,,"Relic: Contained Energy"
-relicContainedEnergyBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nWhen hit by an enemy Shock nearby enemies.\n20 Second Cooldown."
-buffRelicContainedEnergyName,buffs,Buff,,,Relic: Contained Energy
-buffRelicContainedEnergyDesc,buffs,Buff,,,When hit by an enemy Shock nearby enemies.
-buffRelicContainedEnergyPorcCDName,buffs,Buff,,,Relic: Contained Energy Cooldown
-buffRelicContainedEnergyPorcCDDesc,buffs,Buff,,,Contained Energy has been released and is recharging.
+modRelicContainedEnergy,item_modifiers,Mod,,,"Relic: Contained Energy","遗物：封存能量"
+relicContainedEnergyBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nWhen hit by an enemy Shock nearby enemies.\n20 Second Cooldown.","可镶嵌于胸甲物品。\n被敌人命中时电击附近敌人。\n20 秒冷却。"
+buffRelicContainedEnergyName,buffs,Buff,,,Relic: Contained Energy,"遗物：封存能量"
+buffRelicContainedEnergyDesc,buffs,Buff,,,When hit by an enemy Shock nearby enemies.,"被敌人命中时电击附近敌人。"
+buffRelicContainedEnergyPorcCDName,buffs,Buff,,,Relic: Contained Energy Cooldown,"遗物：封存能量 冷却"
+buffRelicContainedEnergyPorcCDDesc,buffs,Buff,,,Contained Energy has been released and is recharging.,"封存能量已释放，正在充能。"
 
 
-modRelicBarracade,item_modifiers,Mod,,,"Relic: Barracade"
-relicBarracadeBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nWhen hit by an enemy, gain 100% Damage Mitigation which decays over 5 seconds.\n20 Second Cooldown."
-buffRelicBarracadeName,buffs,Buff,,,Relic: Barracade
-buffRelicBarracadeDesc,buffs,Buff,,,When hit by an enemy, gain 100% Damage Mitigation which decays over 5 seconds.
-buffRelicBarracadeProcName,buffs,Buff,,,Relic: Barracade Proc
-buffRelicBarracadeProcDesc,buffs,Buff,,,100% Damage Mitigation which decays over time.
-buffRelicBarracadeCDName,buffs,Buff,,,Relic: Barracade Cooldown
-buffRelicBarracadeCDDesc,buffs,Buff,,,Barracade is recharging.
+modRelicBarracade,item_modifiers,Mod,,,"Relic: Barracade","遗物：壁垒"
+relicBarracadeBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nWhen hit by an enemy, gain 100% Damage Mitigation which decays over 5 seconds.\n20 Second Cooldown.","可镶嵌于胸甲物品。\n被敌人命中时，获得 100% 伤害减免，并在 5 秒内逐渐衰减。\n20 秒冷却。"
+buffRelicBarracadeName,buffs,Buff,,,Relic: Barracade,"遗物：壁垒"
+buffRelicBarracadeDesc,buffs,Buff,,,"When hit by an enemy, gain 100% Damage Mitigation which decays over 5 seconds.","被敌人命中时，获得 100% 伤害减免，并在 5 秒内逐渐衰减。"
+buffRelicBarracadeProcName,buffs,Buff,,,Relic: Barracade Proc,"遗物：壁垒 触发"
+buffRelicBarracadeProcDesc,buffs,Buff,,,100% Damage Mitigation which decays over time.,"100% 伤害减免，随时间逐渐衰减。"
+buffRelicBarracadeCDName,buffs,Buff,,,Relic: Barracade Cooldown,"遗物：壁垒 冷却"
+buffRelicBarracadeCDDesc,buffs,Buff,,,Barracade is recharging.,"壁垒正在充能。"
 
 
-modRelicTimeCrunch,item_modifiers,Mod,,,"Relic: Time Crunch"
-relicTimeCrunchBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nInitiating an attack, gain 30% Attack Speed and Movement Speed for 5 seconds.\n16 Second Cooldown."
-buffRelicTimeCrunchName,buffs,Buff,,,Relic: Time Crunch
-buffRelicTimeCrunchDesc,buffs,Buff,,,Initiating an attack grants 30% Attack Speed and Movement Speed for 5 seconds.
-buffRelicTimeCrunchProcName,buffs,Buff,,,Relic: Time Crunch Proc
-buffRelicTimeCrunchProcDesc,buffs,Buff,,,30% Attack Speed and Movement Speed.
-buffRelicTimeCrunchCDName,buffs,Buff,,,Relic: Time Crunch Cooldown
-buffRelicTimeCrunchCDDesc,buffs,Buff,,,Time Crunch is recharging.
+modRelicTimeCrunch,item_modifiers,Mod,,,"Relic: Time Crunch","遗物：时间压缩"
+relicTimeCrunchBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nInitiating an attack, gain 30% Attack Speed and Movement Speed for 5 seconds.\n16 Second Cooldown.","可镶嵌于胸甲物品。\n发起攻击时，获得 30% 攻击速度和移动速度，持续 5 秒。\n16 秒冷却。"
+buffRelicTimeCrunchName,buffs,Buff,,,Relic: Time Crunch,"遗物：时间压缩"
+buffRelicTimeCrunchDesc,buffs,Buff,,,Initiating an attack grants 30% Attack Speed and Movement Speed for 5 seconds.,"发起攻击时获得 30% 攻击速度和移动速度，持续 5 秒。"
+buffRelicTimeCrunchProcName,buffs,Buff,,,Relic: Time Crunch Proc,"遗物：时间压缩 触发"
+buffRelicTimeCrunchProcDesc,buffs,Buff,,,30% Attack Speed and Movement Speed.,"30% 攻击速度和移动速度。"
+buffRelicTimeCrunchCDName,buffs,Buff,,,Relic: Time Crunch Cooldown,"遗物：时间压缩 冷却"
+buffRelicTimeCrunchCDDesc,buffs,Buff,,,Time Crunch is recharging.,"时间压缩正在充能。"
 
 
-modRelicFlashStrike,item_modifiers,Mod,,,"Relic: Flash Strike"
-relicFlashStrikeBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nInitiating an attack grants 300% Movement Speed which decays over 2 seconds.\n10 Second Cooldown."
-buffRelicFlashStrikeName,buffs,Buff,,,Relic: Flash Strike
-buffRelicFlashStrikeDesc,buffs,Buff,,,Initiating an attack grants 300% Movement Speed which decays over time.
-buffRelicFlashStrikeProcName,buffs,Buff,,,Relic: Flash Strike Proc
-buffRelicFlashStrikeProcDesc,buffs,Buff,,,300% Movement Speed decaying over time.
-buffRelicFlashStrikeCDName,buffs,Buff,,,Relic: Flash Strike Cooldown
-buffRelicFlashStrikeCDDesc,buffs,Buff,,,Flash Strike is recharging
+modRelicFlashStrike,item_modifiers,Mod,,,"Relic: Flash Strike","遗物：疾闪打击"
+relicFlashStrikeBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nInitiating an attack grants 300% Movement Speed which decays over 2 seconds.\n10 Second Cooldown.","可镶嵌于胸甲物品。\n发起攻击时获得 300% 移动速度，并在 2 秒内逐渐衰减。\n10 秒冷却。"
+buffRelicFlashStrikeName,buffs,Buff,,,Relic: Flash Strike,"遗物：疾闪打击"
+buffRelicFlashStrikeDesc,buffs,Buff,,,Initiating an attack grants 300% Movement Speed which decays over time.,"发起攻击时获得 300% 移动速度，随时间逐渐衰减。"
+buffRelicFlashStrikeProcName,buffs,Buff,,,Relic: Flash Strike Proc,"遗物：疾闪打击 触发"
+buffRelicFlashStrikeProcDesc,buffs,Buff,,,300% Movement Speed decaying over time.,"300% 移动速度，随时间逐渐衰减。"
+buffRelicFlashStrikeCDName,buffs,Buff,,,Relic: Flash Strike Cooldown,"遗物：疾闪打击 冷却"
+buffRelicFlashStrikeCDDesc,buffs,Buff,,,Flash Strike is recharging,"疾闪打击正在充能"
 
 
-modRelicShadowStrike,item_modifiers,Mod,,,"Relic: Shadow Strike"
-relicShadowStrikeBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+20% Sneak Damage per 20 Player Levels\n(Effect limit is +100%)\nKilling an enemy grants Full Stealth for 2 seconds.\n6 Second Cooldown."
-buffRelicShadowStrikeName,buffs,Buff,,,Relic: Shadow Strike
-buffRelicShadowStrikeDesc,buffs,Buff,,,Killing an enemy grants Full Stealth for 2 seconds.
-buffRelicShadowStrikeProcName,buffs,Buff,,,Relic: Shadow Strike Proc
-buffRelicShadowStrikeProcDesc,buffs,Buff,,,Full Stealth is active and you're Invisible to enemies (Non-player). Attacking will break this effect.
-buffRelicShadowStrikeCDName,buffs,Buff,,,Relic: Shadow Strike Cooldown
-buffRelicShadowStrikeCDDesc,buffs,Buff,,,Shadow Strike is recharging
+modRelicShadowStrike,item_modifiers,Mod,,,"Relic: Shadow Strike","遗物：暗影打击"
+relicShadowStrikeBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+20% Sneak Damage per 20 Player Levels\n(Effect limit is +100%)\nKilling an enemy grants Full Stealth for 2 seconds.\n6 Second Cooldown.","可镶嵌于胸甲物品。\n每 20 个玩家等级 +20% 潜行伤害\n（效果上限 +100%）\n击杀敌人可获得 2 秒完全潜行。\n6 秒冷却。"
+buffRelicShadowStrikeName,buffs,Buff,,,Relic: Shadow Strike,"遗物：暗影打击"
+buffRelicShadowStrikeDesc,buffs,Buff,,,Killing an enemy grants Full Stealth for 2 seconds.,"击杀敌人可获得 2 秒完全潜行。"
+buffRelicShadowStrikeProcName,buffs,Buff,,,Relic: Shadow Strike Proc,"遗物：暗影打击 触发"
+buffRelicShadowStrikeProcDesc,buffs,Buff,,,Full Stealth is active and you're Invisible to enemies (Non-player). Attacking will break this effect.,"完全潜行已激活，你对敌人（非玩家）隐形。攻击会打破该效果。"
+buffRelicShadowStrikeCDName,buffs,Buff,,,Relic: Shadow Strike Cooldown,"遗物：暗影打击 冷却"
+buffRelicShadowStrikeCDDesc,buffs,Buff,,,Shadow Strike is recharging,"暗影打击正在充能"
 
 
-modRelicDivineStrike,item_modifiers,Mod,,,"Relic: Divine Strike"
-relicDivineStrikeBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nWhen hitting an enemy, applies a high damage Ignite which lasts 2 seconds.\nApplies only if target isnt already afflicted with the Ignite."
-buffRelicDivineStrikeName,buffs,Buff,,,Relic: Divine Strike
-buffRelicDivineStrikeDesc,buffs,Buff,,,When hitting an enemy afflict a high damage Ignite which lasts 2 seconds.\nApplies only if target isnt already afflicted with the Ignite.
-buffRelicDivineStrikeProcName,buffs,Buff,,,Relic: Divine Strike Ignite
-buffRelicDivineStrikeProcDesc,buffs,Buff,,,Taking Burning Damage over Time from Divine Strike 
+modRelicDivineStrike,item_modifiers,Mod,,,"Relic: Divine Strike","遗物：神圣打击"
+relicDivineStrikeBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nWhen hitting an enemy, applies a high damage Ignite which lasts 2 seconds.\nApplies only if target isnt already afflicted with the Ignite.","可镶嵌于胸甲物品。\n命中敌人时，施加高伤害点燃，持续 2 秒。\n仅在目标未处于点燃状态时施加。"
+buffRelicDivineStrikeName,buffs,Buff,,,Relic: Divine Strike,"遗物：神圣打击"
+buffRelicDivineStrikeDesc,buffs,Buff,,,When hitting an enemy afflict a high damage Ignite which lasts 2 seconds.\nApplies only if target isnt already afflicted with the Ignite.,"命中敌人时施加高伤害点燃，持续 2 秒。\n仅在目标未处于点燃状态时施加。"
+buffRelicDivineStrikeProcName,buffs,Buff,,,Relic: Divine Strike Ignite,"遗物：神圣打击 点燃"
+buffRelicDivineStrikeProcDesc,buffs,Buff,,,Taking Burning Damage over Time from Divine Strike ,"正受到神圣打击造成的燃烧持续伤害"
 
 
-modRelicLethalStrike,item_modifiers,Mod,,,"Relic: Lethal Strike"
-relicLethalStrikeBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+75% Damage while below 25% Health.\n+50% Damage while below 50% Health.\n+25% Damage while below 75% Health."
-buffRelicLethalStrikeName,buffs,Buff,,,Relic: Lethal Strike
-buffRelicLethalStrikeDesc,buffs,Buff,,,Increased damage while at certain health thresholds
+modRelicLethalStrike,item_modifiers,Mod,,,"Relic: Lethal Strike","遗物：致命打击"
+relicLethalStrikeBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+75% Damage while below 25% Health.\n+50% Damage while below 50% Health.\n+25% Damage while below 75% Health.","可镶嵌于胸甲物品。\n生命低于 25% 时 +75% 伤害。\n生命低于 50% 时 +50% 伤害。\n生命低于 75% 时 +25% 伤害。"
+buffRelicLethalStrikeName,buffs,Buff,,,Relic: Lethal Strike,"遗物：致命打击"
+buffRelicLethalStrikeDesc,buffs,Buff,,,Increased damage while at certain health thresholds,"在特定生命阈值以下时提升伤害"
 
 
-modRelicMechaCommand,item_modifiers,Mod,,,"Relic: Mecha Command"
-relicMechaCommandBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+1 Robotic Summon Limit.\n+1 Robotic Summon Limit per 50 Player Levels.\n(Effect limit is +4)"
-buffRelicMechaCommandName,buffs,Buff,,,Relic: Mecha Command
-buffRelicMechaCommandDesc,buffs,Buff,,,Increase Active Robotic Count while at certain Player Levels thresholds
+modRelicMechaCommand,item_modifiers,Mod,,,"Relic: Mecha Command","遗物：机械指挥"
+relicMechaCommandBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+1 Robotic Summon Limit.\n+1 Robotic Summon Limit per 50 Player Levels.\n(Effect limit is +4)","可镶嵌于胸甲物品。\n+1 机器人召唤上限。\n每 50 个玩家等级 +1 机器人召唤上限。\n（效果上限 +4）"
+buffRelicMechaCommandName,buffs,Buff,,,Relic: Mecha Command,"遗物：机械指挥"
+buffRelicMechaCommandDesc,buffs,Buff,,,Increase Active Robotic Count while at certain Player Levels thresholds,"在特定玩家等级阈值时提升可激活机器人数量"
 
 
-modRelicMechaGiga,item_modifiers,Mod,,,"Relic: Mecha Giga"
-relicMechaGigaBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+10% Attack Speed with Robotics per 20 Player Levels.\n(Effect limit is +100%)"
-buffRelicMechaGigaName,buffs,Buff,,,Relic: Mecha Giga
-buffRelicMechaGigaDesc,buffs,Buff,,,Increase Robotic Attack Speed while at certain Player Levels thresholds
+modRelicMechaGiga,item_modifiers,Mod,,,"Relic: Mecha Giga","遗物：机械巨人"
+relicMechaGigaBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+10% Attack Speed with Robotics per 20 Player Levels.\n(Effect limit is +100%)","可镶嵌于胸甲物品。\n每 20 个玩家等级 +10% 机器人攻击速度。\n（效果上限 +100%）"
+buffRelicMechaGigaName,buffs,Buff,,,Relic: Mecha Giga,"遗物：机械巨人"
+buffRelicMechaGigaDesc,buffs,Buff,,,Increase Robotic Attack Speed while at certain Player Levels thresholds,"在特定玩家等级阈值时提升机器人攻击速度"
 
 
-modRelicMechaBeacon,item_modifiers,Mod,,,"Relic: Mecha Beacon"
-relicMechaBeaconBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+2 Robotic Activation Range per 10 Player Levels.\n(Effect limit is +20)"
-buffRelicMechaBeaconName,buffs,Buff,,,Relic: Mecha Beacon
-buffRelicMechaBeaconDesc,buffs,Buff,,,Increase Robotic Activation Range while at certain Player Levels thresholds
+modRelicMechaBeacon,item_modifiers,Mod,,,"Relic: Mecha Beacon","遗物：机械信标"
+relicMechaBeaconBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+2 Robotic Activation Range per 10 Player Levels.\n(Effect limit is +20)","可镶嵌于胸甲物品。\n每 10 个玩家等级 +2 机器人激活范围。\n（效果上限 +20）"
+buffRelicMechaBeaconName,buffs,Buff,,,Relic: Mecha Beacon,"遗物：机械信标"
+buffRelicMechaBeaconDesc,buffs,Buff,,,Increase Robotic Activation Range while at certain Player Levels thresholds,"在特定玩家等级阈值时提升机器人激活范围"
 
 
-modRelicMechanomicon,item_modifiers,Mod,,,"Relic: Mechanomicon"
-relicMechanomiconBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+25% Robotic Sledge Damage per 25 Player Levels.\n(Effect up to +100%)\n+25 Robotic Turret Magazine Capacity per 25 Player Levels.\n(Effect up to +100)"
-buffRelicMechanomiconName,buffs,Buff,,,Relic: Mechanomicon
-buffRelicMechanomiconDesc,buffs,Buff,,,Grants Robotic Benefits while at certain Player Levels thresholds
+modRelicMechanomicon,item_modifiers,Mod,,,"Relic: Mechanomicon","遗物：机械死灵书"
+relicMechanomiconBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+25% Robotic Sledge Damage per 25 Player Levels.\n(Effect up to +100%)\n+25 Robotic Turret Magazine Capacity per 25 Player Levels.\n(Effect up to +100)","可镶嵌于胸甲物品。\n每 25 个玩家等级 +25% 机械雪橇伤害。\n（效果上限 +100%）\n每 25 个玩家等级 +25 机器人炮塔弹匣容量。\n（效果上限 +100）"
+buffRelicMechanomiconName,buffs,Buff,,,Relic: Mechanomicon,"遗物：机械死灵书"
+buffRelicMechanomiconDesc,buffs,Buff,,,Grants Robotic Benefits while at certain Player Levels thresholds,"在特定玩家等级阈值时提供机器人增益"
 
 
-modRelicMendingStone,item_modifiers,Mod,,,"Relic: Mending Stone"
-relicMendingStoneBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nWhen hit by an Enemy:\nRecover 5 to 15 Health.\nRecover 15 to 30 Stamina.\n20 Second Cooldown."
-buffRelicMendingStoneName,buffs,Buff,,,Relic: Mending Stone
-buffRelicMendingStoneDesc,buffs,Buff,,,When hit by an enemy, recover Health and Stamina
-buffRelicMendingStoneProcName,buffs,Buff,,,Relic: Mending Stone Proc
-buffRelicMendingStoneProcDesc,buffs,Buff,,,Recovering Health and Stamina
-buffRelicMendingStoneCDName,buffs,Buff,,,Relic: Mending Stone Cooldown
-buffRelicMendingStoneCDDesc,buffs,Buff,,,Mending Stone is recharging
+modRelicMendingStone,item_modifiers,Mod,,,"Relic: Mending Stone","遗物：治愈之石"
+relicMendingStoneBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nWhen hit by an Enemy:\nRecover 5 to 15 Health.\nRecover 15 to 30 Stamina.\n20 Second Cooldown.","可镶嵌于胸甲物品。\n被敌人命中时：\n恢复 5 至 15 点生命。\n恢复 15 至 30 点体力。\n20 秒冷却。"
+buffRelicMendingStoneName,buffs,Buff,,,Relic: Mending Stone,"遗物：治愈之石"
+buffRelicMendingStoneDesc,buffs,Buff,,,"When hit by an enemy, recover Health and Stamina","被敌人命中时，恢复生命和体力"
+buffRelicMendingStoneProcName,buffs,Buff,,,Relic: Mending Stone Proc,"遗物：治愈之石 触发"
+buffRelicMendingStoneProcDesc,buffs,Buff,,,Recovering Health and Stamina,"正在恢复生命和体力"
+buffRelicMendingStoneCDName,buffs,Buff,,,Relic: Mending Stone Cooldown,"遗物：治愈之石 冷却"
+buffRelicMendingStoneCDDesc,buffs,Buff,,,Mending Stone is recharging,"治愈之石正在充能"
 
 
-modRelicSkeletalSteel,item_modifiers,Mod,,,"Relic: Skeletal Steel"
-relicSkeletalSteelBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+1% Damage Mitigation per 10 Player Levels.\n(Effect limit is +10%)"
-buffRelicSkeletalSteelName,buffs,Buff,,,Relic: Skeletal Steel
-buffRelicSkeletalSteelDesc,buffs,Buff,,,Increase Damage Mitigation while at certain Player Levels thresholds
+modRelicSkeletalSteel,item_modifiers,Mod,,,"Relic: Skeletal Steel","遗物：骸骨之钢"
+relicSkeletalSteelBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+1% Damage Mitigation per 10 Player Levels.\n(Effect limit is +10%)","可镶嵌于胸甲物品。\n每 10 个玩家等级 +1% 伤害减免。\n（效果上限 +10%）"
+buffRelicSkeletalSteelName,buffs,Buff,,,Relic: Skeletal Steel,"遗物：骸骨之钢"
+buffRelicSkeletalSteelDesc,buffs,Buff,,,Increase Damage Mitigation while at certain Player Levels thresholds,"在特定玩家等级阈值时提升伤害减免"
 
 
-modRelicBloodSacrifice,item_modifiers,Mod,,,"Relic: Blood Sacrifice"
-relicBloodSacrificeBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nHitting an Enemy with Melee or Archery grants a Blood Charge.\nBlood Charge grants +50% Melee and Archery Damage.\nLoose Health equal to the number of Blood Charges you have when you gain a Blood Charge.\nWhen you have 3 Blood Charges loose all Blood Charges when Hitting an Enemy."
-buffRelicEquippedBloodSacrificeName,buffs,Buff,,,Relic: Blood Sacrifice
-buffRelicEquippedBloodSacrificeDesc,buffs,Buff,,,Increase Damage Mitigation while at certain Player Levels thresholds
+modRelicBloodSacrifice,item_modifiers,Mod,,,"Relic: Blood Sacrifice","遗物：鲜血献祭"
+relicBloodSacrificeBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nHitting an Enemy with Melee or Archery grants a Blood Charge.\nBlood Charge grants +50% Melee and Archery Damage.\nLoose Health equal to the number of Blood Charges you have when you gain a Blood Charge.\nWhen you have 3 Blood Charges loose all Blood Charges when Hitting an Enemy.","可镶嵌于胸甲物品。\n使用近战或弓箭命中敌人可获得一层血液充能。\n血液充能提供 +50% 近战和弓箭伤害。\n获得血液充能时，损失等同于你当前血液充能层数的生命。\n当你拥有 3 层血液充能时，命中敌人会清空所有血液充能。"
+buffRelicEquippedBloodSacrificeName,buffs,Buff,,,Relic: Blood Sacrifice,"遗物：鲜血献祭"
+buffRelicEquippedBloodSacrificeDesc,buffs,Buff,,,Increase Damage Mitigation while at certain Player Levels thresholds,"在特定玩家等级阈值时提升伤害减免"
 
 
-modRelicForgeBadge,item_modifiers,Mod,,,"Relic: Forge Badge"
-relicForgeBadgeBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+15% Faster Crafting.\n+10% Salvage Harvest Quantity per 20 Player Levels.\n(Effect up to +100%)"
-buffRelicEquippedForgeBadgeName,buffs,Buff,,,Relic: Forge Badge
-buffRelicEquippedForgeBadgeDesc,buffs,Buff,,,Faster Crafting and More Salvage Harvest Quantity
+modRelicForgeBadge,item_modifiers,Mod,,,"Relic: Forge Badge","遗物：锻造徽章"
+relicForgeBadgeBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+15% Faster Crafting.\n+10% Salvage Harvest Quantity per 20 Player Levels.\n(Effect up to +100%)","可镶嵌于胸甲物品。\n制作速度加快 15%。\n每 20 个玩家等级 +10% 拆解采集数量。\n（效果上限 +100%）"
+buffRelicEquippedForgeBadgeName,buffs,Buff,,,Relic: Forge Badge,"遗物：锻造徽章"
+buffRelicEquippedForgeBadgeDesc,buffs,Buff,,,Faster Crafting and More Salvage Harvest Quantity,"制作速度更快，拆解采集数量更多"
 
 
-modRelicAnomolicOre,item_modifiers,Mod,,,"Relic: Anomolic Ore"
-relicAnomolicOreBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+5% Chance to One-Shot ore.\n+10% Ore Harvest Quantity per 20 Player Levels.\n(Effect up to +100%)"
-buffRelicEquippedAnomolicOreName,buffs,Buff,,,Relic: Anomolic Ore
-buffRelicEquippedAnomolicOreDesc,buffs,Buff,,,Chance to One-Shot Ore and More Ore Harvest Quantity
+modRelicAnomolicOre,item_modifiers,Mod,,,"Relic: Anomolic Ore","遗物：异常矿石"
+relicAnomolicOreBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+5% Chance to One-Shot ore.\n+10% Ore Harvest Quantity per 20 Player Levels.\n(Effect up to +100%)","可镶嵌于胸甲物品。\n+5% 几率一击击碎矿石。\n每 20 个玩家等级 +10% 矿石采集数量。\n（效果上限 +100%）"
+buffRelicEquippedAnomolicOreName,buffs,Buff,,,Relic: Anomolic Ore,"遗物：异常矿石"
+buffRelicEquippedAnomolicOreDesc,buffs,Buff,,,Chance to One-Shot Ore and More Ore Harvest Quantity,"有几率一击击碎矿石，矿石采集数量更多"
 
 
-modRelicFragileFragment,item_modifiers,Mod,,,"Relic: Fragile Fragment"
-relicFragileFragmentBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nGrants +100% Damage Mitigation when hit by an enemy.\nEffect lasts 3 seconds.\n20 Second Cooldown."
-buffRelicFragileFragmentName,buffs,Buff,,,Relic: Fragile Fragment
-buffRelicFragileFragmentDesc,buffs,Buff,,,When hit by an enemy, grants Damage Mitigation
-buffRelicFragileFragmentProcName,buffs,Buff,,,Relic: Fragile Fragment Proc
-buffRelicFragileFragmentProcDesc,buffs,Buff,,,Grants Damage Mitigation
-buffRelicFragileFragmentCDName,buffs,Buff,,,Relic: Fragile Fragment Cooldown
-buffRelicFragileFragmentCDDesc,buffs,Buff,,,Fragile Fragment is recharging
+modRelicFragileFragment,item_modifiers,Mod,,,"Relic: Fragile Fragment","遗物：易碎碎片"
+relicFragileFragmentBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nGrants +100% Damage Mitigation when hit by an enemy.\nEffect lasts 3 seconds.\n20 Second Cooldown.","可镶嵌于胸甲物品。\n被敌人命中时提供 +100% 伤害减免。\n效果持续 3 秒。\n20 秒冷却。"
+buffRelicFragileFragmentName,buffs,Buff,,,Relic: Fragile Fragment,"遗物：易碎碎片"
+buffRelicFragileFragmentDesc,buffs,Buff,,,"When hit by an enemy, grants Damage Mitigation","被敌人命中时，提供伤害减免"
+buffRelicFragileFragmentProcName,buffs,Buff,,,Relic: Fragile Fragment Proc,"遗物：易碎碎片 触发"
+buffRelicFragileFragmentProcDesc,buffs,Buff,,,Grants Damage Mitigation,"提供伤害减免"
+buffRelicFragileFragmentCDName,buffs,Buff,,,Relic: Fragile Fragment Cooldown,"遗物：易碎碎片 冷却"
+buffRelicFragileFragmentCDDesc,buffs,Buff,,,Fragile Fragment is recharging,"易碎碎片正在充能"
 
 
-modRelicBBSwiftness,item_modifiers,Mod,,,"Relic: Battle Badge of Swiftness"
-relicBBSwiftnessBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nHitting an Enemy with a Power Attack grants +150% Attack Speed for 4 seconds.\n(16 Second Cooldown)"
-buffRelicBBSwiftnessName,buffs,Buff,,,Relic: Battle Badge of Swiftness
-buffRelicBBSwiftnessDesc,buffs,Buff,,,Grants Attack Speed on hitting an enemy with a Power Attack
-buffRelicBBSwiftnessProcName,buffs,Buff,,,Relic: Battle Badge of Swiftness Proc
-buffRelicBBSwiftnessProcDesc,buffs,Buff,,,Grants Attack Speed
-buffRelicBBSwiftnessCDName,buffs,Buff,,,Relic: Battle Badge of Swiftness Cooldown
-buffRelicBBSwiftnessCDDesc,buffs,Buff,,,Battle Badge of Swiftness is recharging
+modRelicBBSwiftness,item_modifiers,Mod,,,"Relic: Battle Badge of Swiftness","遗物：迅捷战徽"
+relicBBSwiftnessBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nHitting an Enemy with a Power Attack grants +150% Attack Speed for 4 seconds.\n(16 Second Cooldown)","可镶嵌于胸甲物品。\n使用重击命中敌人时获得 +150% 攻击速度，持续 4 秒。\n（16 秒冷却）"
+buffRelicBBSwiftnessName,buffs,Buff,,,Relic: Battle Badge of Swiftness,"遗物：迅捷战徽"
+buffRelicBBSwiftnessDesc,buffs,Buff,,,Grants Attack Speed on hitting an enemy with a Power Attack,"使用重击命中敌人时提供攻击速度"
+buffRelicBBSwiftnessProcName,buffs,Buff,,,Relic: Battle Badge of Swiftness Proc,"遗物：迅捷战徽 触发"
+buffRelicBBSwiftnessProcDesc,buffs,Buff,,,Grants Attack Speed,"提供攻击速度"
+buffRelicBBSwiftnessCDName,buffs,Buff,,,Relic: Battle Badge of Swiftness Cooldown,"遗物：迅捷战徽 冷却"
+buffRelicBBSwiftnessCDDesc,buffs,Buff,,,Battle Badge of Swiftness is recharging,"迅捷战徽正在充能"
 
 
-modRelicBBForce,item_modifiers,Mod,,,"Relic: Battle Badge of Force"
-relicBBForceBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nHitting an Enemy with a Power Attack will Knockdown nearby Enemies.\n(16 Second Cooldown)"
-buffRelicBBForceName,buffs,Buff,,,Relic: Battle Badge of Force
-buffRelicBBForceDesc,buffs,Buff,,, Knockdown nearby Enemies with a Power Attack
-buffRelicBBForceCDName,buffs,Buff,,,Relic: Battle Badge of Force Cooldown
-buffRelicBBForceCDDesc,buffs,Buff,,,Battle Badge of Force is recharging
+modRelicBBForce,item_modifiers,Mod,,,"Relic: Battle Badge of Force","遗物：强袭战徽"
+relicBBForceBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nHitting an Enemy with a Power Attack will Knockdown nearby Enemies.\n(16 Second Cooldown)","可镶嵌于胸甲物品。\n使用重击命中敌人时会击倒附近敌人。\n（16 秒冷却）"
+buffRelicBBForceName,buffs,Buff,,,Relic: Battle Badge of Force,"遗物：强袭战徽"
+buffRelicBBForceDesc,buffs,Buff,,, Knockdown nearby Enemies with a Power Attack,"使用重击击倒附近敌人"
+buffRelicBBForceCDName,buffs,Buff,,,Relic: Battle Badge of Force Cooldown,"遗物：强袭战徽 冷却"
+buffRelicBBForceCDDesc,buffs,Buff,,,Battle Badge of Force is recharging,"强袭战徽正在充能"
 
 
-modRelicBBBlood,item_modifiers,Mod,,,"Relic: Battle Badge of Blood"
-relicBBBloodBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nHitting an Enemy with a Power Attack applies a Lethal Bleed to nearby Enemies.\n(16 Second Cooldown)"
-buffRelicBBBloodLethalBleedName,buffs,Buff,,,Lethal Bleeding
-buffRelicBBBloodLethalBleedDesc,buffs,Buff,,, Large health loss over time
-buffRelicBBBloodCDName,buffs,Buff,,,Relic: Battle Badge of Blood Cooldown
-buffRelicBBBloodCDDesc,buffs,Buff,,,Battle Badge of Blood is recharging
+modRelicBBBlood,item_modifiers,Mod,,,"Relic: Battle Badge of Blood","遗物：鲜血战徽"
+relicBBBloodBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nHitting an Enemy with a Power Attack applies a Lethal Bleed to nearby Enemies.\n(16 Second Cooldown)","可镶嵌于胸甲物品。\n使用重击命中敌人时对附近敌人施加致命流血。\n（16 秒冷却）"
+buffRelicBBBloodLethalBleedName,buffs,Buff,,,Lethal Bleeding,"致命流血"
+buffRelicBBBloodLethalBleedDesc,buffs,Buff,,, Large health loss over time,"随时间大量损失生命"
+buffRelicBBBloodCDName,buffs,Buff,,,Relic: Battle Badge of Blood Cooldown,"遗物：鲜血战徽 冷却"
+buffRelicBBBloodCDDesc,buffs,Buff,,,Battle Badge of Blood is recharging,"鲜血战徽正在充能"
 
 
-modRelicBBWar,item_modifiers,Mod,,,"Relic: Battle Badge of War"
-relicBBWarBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+25% Damage\n+10% Attack Speed and Movement Speed\n+5% Damage Mitigation"
-buffRelicEquippedBBWarName,buffs,Buff,,,Relic: Battle Badge of War
-buffRelicEquippedBBWarDesc,buffs,Buff,,,Grants boosts to different stats
+modRelicBBWar,item_modifiers,Mod,,,"Relic: Battle Badge of War","遗物：战争战徽"
+relicBBWarBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+25% Damage\n+10% Attack Speed and Movement Speed\n+5% Damage Mitigation","可镶嵌于胸甲物品。\n+25% 伤害\n+10% 攻击速度和移动速度\n+5% 伤害减免"
+buffRelicEquippedBBWarName,buffs,Buff,,,Relic: Battle Badge of War,"遗物：战争战徽"
+buffRelicEquippedBBWarDesc,buffs,Buff,,,Grants boosts to different stats,"提供多种属性加成"
 
 
-modRelicBBHunt,item_modifiers,Mod,,,"Relic: Battle Badge of Hunt"
-relicBBHuntBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+20% Arrow Stick Chance\nHitting an Enemy with Archery will grant +150% Archery Attack Speed for 4 seconds.\n(16 Second Cooldown)"
-buffRelicBBHuntName,buffs,Buff,,,Relic: Battle Badge of Hunt
-buffRelicBBHuntDesc,buffs,Buff,,,Grants Projectile Stick Chance and grants Archery Attack Speed on hitting an enemy with an Archery Attack
-buffRelicBBHuntProcName,buffs,Buff,,,Relic: Battle Badge of Hunt Proc
-buffRelicBBHuntProcDesc,buffs,Buff,,,Grants Archery Attack Speed
-buffRelicBBHuntCDName,buffs,Buff,,,Relic: Battle Badge of Hunt Cooldown
-buffRelicBBHuntCDDesc,buffs,Buff,,,Battle Badge of Hunt is recharging
+modRelicBBHunt,item_modifiers,Mod,,,"Relic: Battle Badge of Hunt","遗物：狩猎战徽"
+relicBBHuntBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+20% Arrow Stick Chance\nHitting an Enemy with Archery will grant +150% Archery Attack Speed for 4 seconds.\n(16 Second Cooldown)","可镶嵌于胸甲物品。\n+20% 箭矢附着几率\n使用弓箭命中敌人时会获得 +150% 弓箭攻击速度，持续 4 秒。\n（16 秒冷却）"
+buffRelicBBHuntName,buffs,Buff,,,Relic: Battle Badge of Hunt,"遗物：狩猎战徽"
+buffRelicBBHuntDesc,buffs,Buff,,,Grants Projectile Stick Chance and grants Archery Attack Speed on hitting an enemy with an Archery Attack,"提供弹射物附着几率，并在使用弓箭攻击命中敌人时提供弓箭攻击速度"
+buffRelicBBHuntProcName,buffs,Buff,,,Relic: Battle Badge of Hunt Proc,"遗物：狩猎战徽 触发"
+buffRelicBBHuntProcDesc,buffs,Buff,,,Grants Archery Attack Speed,"提供弓箭攻击速度"
+buffRelicBBHuntCDName,buffs,Buff,,,Relic: Battle Badge of Hunt Cooldown,"遗物：狩猎战徽 冷却"
+buffRelicBBHuntCDDesc,buffs,Buff,,,Battle Badge of Hunt is recharging,"狩猎战徽正在充能"
 
 
 
-modRelicFlaskOfLife,item_modifiers,Mod,,,"Relic: Flask Of Life"
-relicFlaskOfLifeBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nRecover 25 Health on reaching 25% or less Health.\n(15 Second Cooldown)"
-buffRelicEquippedFlaskOfLifeCDName,buffs,Buff,,,Relic: Flask Of Life Cooldown
-buffRelicEquippedFlaskOfLifeCDDesc,buffs,Buff,,,Flask Of Life is recharging
+modRelicFlaskOfLife,item_modifiers,Mod,,,"Relic: Flask Of Life","遗物：生命药瓶"
+relicFlaskOfLifeBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nRecover 25 Health on reaching 25% or less Health.\n(15 Second Cooldown)","可镶嵌于胸甲物品。\n生命降至 25% 或以下时恢复 25 点生命。\n（15 秒冷却）"
+buffRelicEquippedFlaskOfLifeCDName,buffs,Buff,,,Flask Of Life Cooldown,"生命药瓶 冷却"
+buffRelicEquippedFlaskOfLifeCDDesc,buffs,Buff,,,Flask Of Life is recharging,"生命药瓶正在充能"
 
-modRelicFlaskOfStamina,item_modifiers,Mod,,,"Relic: Flask Of Stamina"
-relicFlaskOfStaminaBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nRecover 50 Stamina on reaching 25% or less Stamina.\n(15 Second Cooldown)"
-buffRelicEquippedFlaskOfStaminaCDName,buffs,Buff,,,Relic: Flask Of Stamina Cooldown
-buffRelicEquippedFlaskOfStaminaCDDesc,buffs,Buff,,,Flask Of Stamina is recharging
+modRelicFlaskOfStamina,item_modifiers,Mod,,,"Relic: Flask Of Stamina","遗物：体力药瓶"
+relicFlaskOfStaminaBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nRecover 50 Stamina on reaching 25% or less Stamina.\n(15 Second Cooldown)","可镶嵌于胸甲物品。\n体力降至 25% 或以下时恢复 50 点体力。\n（15 秒冷却）"
+buffRelicEquippedFlaskOfStaminaCDName,buffs,Buff,,,Flask Of Stamina Cooldown,"体力药瓶 冷却"
+buffRelicEquippedFlaskOfStaminaCDDesc,buffs,Buff,,,Flask Of Stamina is recharging,"体力药瓶正在充能"
 
 
-modRelicSunderCharm,item_modifiers,Mod,,,"Relic: Sunder Charm"
-relicSunderCharmBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nHitting an Enemy applies a stacking debuff that applies -20% Physical Damage Resist.\n(Stack limit is 10)"
-buffRelicSunderEffectName,buffs,Buff,,,Sundered
-buffRelicSunderEffectDesc,buffs,Buff,,,Reduced Physical Resistance
+modRelicSunderCharm,item_modifiers,Mod,,,"Relic: Sunder Charm","遗物：破甲护符"
+relicSunderCharmBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nHitting an Enemy applies a stacking debuff that applies -20% Physical Damage Resist.\n(Stack limit is 10)","可镶嵌于胸甲物品。\n命中敌人时施加可叠加的减益，造成 -20% 物理伤害抗性。\n（层数上限 10）"
+buffRelicSunderEffectName,buffs,Buff,,,Sundered,"破甲"
+buffRelicSunderEffectDesc,buffs,Buff,,,Reduced Physical Resistance,"降低物理抗性"
 
 
-modRelicTravelerCharm,item_modifiers,Mod,,,"Relic: Traveler Charm"
-relicTravelerCharmBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+20% Looting Speed\n+1 Carry Capacity per 10 Player Levels.\n(Effect up to +10)"
+modRelicTravelerCharm,item_modifiers,Mod,,,"Relic: Traveler Charm","遗物：旅行者护符"
+relicTravelerCharmBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+20% Looting Speed\n+1 Carry Capacity per 10 Player Levels.\n(Effect up to +10)","可镶嵌于胸甲物品。\n+20% 搜刮速度\n每 10 个玩家等级 +1 负重上限。\n（效果上限 +10）"
 
-modRelicCharredCharm,item_modifiers,Mod,,,"Relic: Charred Charm"
-relicCharredCharmBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nHitting an enemy with Melee or Archery will extend the duration of Burning effects."
+modRelicCharredCharm,item_modifiers,Mod,,,"Relic: Charred Charm","遗物：焦黑护符"
+relicCharredCharmBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nHitting an enemy with Melee or Archery will extend the duration of Burning effects.","可镶嵌于胸甲物品。\n使用近战或弓箭命中敌人会延长燃烧效果的持续时间。"
 
 
-modRelicZenith,item_modifiers,Mod,,,"Relic: Zenith"
-relicZenithBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+1 All Attributes.\n+10% EXP Gained.\n+1% EXP Gained per 10 Player Levels.\n(Effect up to +10%)"
+modRelicZenith,item_modifiers,Mod,,,"Relic: Zenith","遗物：天顶"
+relicZenithBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+1 All Attributes.\n+10% EXP Gained.\n+1% EXP Gained per 10 Player Levels.\n(Effect up to +10%)","可镶嵌于胸甲物品。\n+1 所有属性。\n+10% 获得经验值。\n每 10 个玩家等级 +1% 获得经验值。\n（效果上限 +10%）"
 
 
-modRelicExquisiteStone,item_modifiers,Mod,,,"Relic: Exquisite Stone"
-relicExquisiteStoneBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nGrants Immunity to Stun Effects.\n+1 Health Regen per Second.\n+25% Stamina Regen."
+modRelicExquisiteStone,item_modifiers,Mod,,,"Relic: Exquisite Stone","遗物：精致之石"
+relicExquisiteStoneBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nGrants Immunity to Stun Effects.\n+1 Health Regen per Second.\n+25% Stamina Regen.","可镶嵌于胸甲物品。\n免疫眩晕效果。\n每秒 +1 生命回复。\n+25% 体力回复。"
 
 
-modRelicPredator,item_modifiers,Mod,,,"Relic: Predator"
-relicPredatorBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nGrants effects per 20 Player Levels up to Player Level 100:\n+10% Projectile Velocity\n+5% Arrow Stick Chance\n+20% Sneak Damage"
+modRelicPredator,item_modifiers,Mod,,,"Relic: Predator","遗物：掠食者"
+relicPredatorBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nGrants effects per 20 Player Levels up to Player Level 100:\n+10% Projectile Velocity\n+5% Arrow Stick Chance\n+20% Sneak Damage","可镶嵌于胸甲物品。\n每 20 个玩家等级提供效果，直至 100 级：\n+10% 弹射物飞行速度\n+5% 箭矢附着几率\n+20% 潜行伤害"
 
 
-modRelicMasterKey,item_modifiers,Mod,,,"Relic: Master Key"
-relicMasterKeyBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+5% Chance to Prevent Lockpick Break per 10 Player Levels.\n+5% Lockpicking Speed per 10 Player Levels.\n(Effect up to 50%)"
+modRelicMasterKey,item_modifiers,Mod,,,"Relic: Master Key","遗物：万能钥匙"
+relicMasterKeyBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+5% Chance to Prevent Lockpick Break per 10 Player Levels.\n+5% Lockpicking Speed per 10 Player Levels.\n(Effect up to 50%)","可镶嵌于胸甲物品。\n每 10 个玩家等级 +5% 防止开锁器损坏的几率。\n每 10 个玩家等级 +5% 开锁速度。\n（效果上限 50%）"
 
 
-modRelicMechaOverdrive,item_modifiers,Mod,,,"Relic: Mecha Overdrive"
-relicMechaOverdriveBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+50% Robotic Attack Speed for 6 Seconds.\nPower Attack Triggers this effect.\n20 Second Cooldown."
-buffRelicEquippedMechaOverdriveEffectName,buffs,Buff,,,Relic: Mecha Overdrive Proc
-buffRelicEquippedMechaOverdriveEffectDesc,buffs,Buff,,,Increased Robotic Attack Speed
-buffRelicEquippedMechaOverdriveCDName,buffs,Buff,,,Relic: Mecha Overdrive Cooldown
-buffRelicEquippedMechaOverdriveCDDesc,buffs,Buff,,,Mecha Overdrive is recharging.
+modRelicMechaOverdrive,item_modifiers,Mod,,,"Relic: Mecha Overdrive","遗物：机械超载"
+relicMechaOverdriveBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+50% Robotic Attack Speed for 6 Seconds.\nPower Attack Triggers this effect.\n20 Second Cooldown.","可镶嵌于胸甲物品。\n+50% 机器人攻击速度，持续 6 秒。\n重击可触发该效果。\n20 秒冷却。"
+buffRelicEquippedMechaOverdriveEffectName,buffs,Buff,,,Relic: Mecha Overdrive Proc,"遗物：机械超载 触发"
+buffRelicEquippedMechaOverdriveEffectDesc,buffs,Buff,,,Increased Robotic Attack Speed,"提升机器人攻击速度"
+buffRelicEquippedMechaOverdriveCDName,buffs,Buff,,,Relic: Mecha Overdrive Cooldown,"遗物：机械超载 冷却"
+buffRelicEquippedMechaOverdriveCDDesc,buffs,Buff,,,Mecha Overdrive is recharging.,"机械超载正在充能。"
 
 
-modRelicCrepitus,item_modifiers,Mod,,,"Relic: Crepitus"
-relicCrepitusBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+10% Explosion Damage per 10 Player Levels.\n(Effect up to +100%)"
+modRelicCrepitus,item_modifiers,Mod,,,"Relic: Crepitus","遗物：爆裂"
+relicCrepitusBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+10% Explosion Damage per 10 Player Levels.\n(Effect up to +100%)","可镶嵌于胸甲物品。\n每 10 个玩家等级 +10% 爆炸伤害。\n（效果上限 +100%）"
 
 
-modRelicContinentiam,item_modifiers,Mod,,,"Relic: Continentiam"
-relicContinentiamBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+5% Damage Mitigation while below 75% Health\n+5% Damage Mitigation while below 50% Health\n+5% Damage Mitigation while below 25% Health"
+modRelicContinentiam,item_modifiers,Mod,,,"Relic: Continentiam","遗物：节制"
+relicContinentiamBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+5% Damage Mitigation while below 75% Health\n+5% Damage Mitigation while below 50% Health\n+5% Damage Mitigation while below 25% Health","可镶嵌于胸甲物品。\n生命低于 75% 时 +5% 伤害减免\n生命低于 50% 时 +5% 伤害减免\n生命低于 25% 时 +5% 伤害减免"
 
 
-modRelicUPOE,item_modifiers,Mod,,,"Relic: Untainted Pair of Eyes"
-relicUPEBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nGrants effects per 25 Player Levels up to Player Level 200:\n+10% Damage\n+5% Attack Speed\n+2% Movement Speed\n+1% Damage Mitigation"
+modRelicUPOE,item_modifiers,Mod,,,"Relic: Untainted Pair of Eyes","遗物：纯净之眼"
+relicUPEBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nGrants effects per 25 Player Levels up to Player Level 200:\n+10% Damage\n+5% Attack Speed\n+2% Movement Speed\n+1% Damage Mitigation","可镶嵌于胸甲物品。\n每 25 个玩家等级提供效果，直至 200 级：\n+10% 伤害\n+5% 攻击速度\n+2% 移动速度\n+1% 伤害减免"
 
 
-modRelicPurifier,item_modifiers,Mod,,,"Relic: Purifier"
-relicPurifierBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nHitting an enemy prevents Radiated Regen."
+modRelicPurifier,item_modifiers,Mod,,,"Relic: Purifier","遗物：净化者"
+relicPurifierBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nHitting an enemy prevents Radiated Regen.","可镶嵌于胸甲物品。\n命中敌人可阻止辐射再生。"
 
 
-modRelicGraspingHeart,item_modifiers,Mod,,,"Relic: Grasping Heart"
-relicGraspingHeartBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+15% Damage with Brawling per 10 Player Levels.\n(Effect up to +150%)\n+3% Attack Speed with Brawling per 10 Player Levels.\n(Effect up to + 30%)"
+modRelicGraspingHeart,item_modifiers,Mod,,,"Relic: Grasping Heart","遗物：攫取之心"
+relicGraspingHeartBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+15% Damage with Brawling per 10 Player Levels.\n(Effect up to +150%)\n+3% Attack Speed with Brawling per 10 Player Levels.\n(Effect up to + 30%)","可镶嵌于胸甲物品。\n每 10 个玩家等级 +15% 徒手伤害。\n（效果上限 +150%）\n每 10 个玩家等级 +3% 徒手攻击速度。\n（效果上限 +30%）"
 
 
-modRelicCorruption,item_modifiers,Mod,,,"Relic: Corruption"
-relicCorruptionBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nTracks Zombies."
-buffRelicCorruptionTrackName,buffs,Buff,,,Relic: Corruption Tracking
-buffRelicCorruptionTrackDesc,buffs,Buff,,,Tracks Zombies
+modRelicCorruption,item_modifiers,Mod,,,"Relic: Corruption","遗物：腐化"
+relicCorruptionBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nTracks Zombies.","可镶嵌于胸甲物品。\n追踪僵尸。"
+buffRelicCorruptionTrackName,buffs,Buff,,,Relic: Corruption Tracking,"遗物：腐化追踪"
+buffRelicCorruptionTrackDesc,buffs,Buff,,,Tracks Zombies,"追踪僵尸"
 
 
-modRelicIgnitious,item_modifiers,Mod,,,"Relic: Ignitious"
-relicIgnitiousBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nRegular Hit: 25% chance for Effect. Ignores Cooldown.\nPower Attack Hit: 100% chance for Effect.\nCauses nearby enemies to become Ignited for 4 seconds.\n(12 Second Cooldown)"
-buffRelicEquippedIgnitiousCDName,buffs,Buff,,,Relic: Ignitious Cooldown
-buffRelicEquippedIgnitiousCDDesc,buffs,Buff,,,Ignitious is recharging.
-buffRelicIgnitiousDoTName,buffs,Buff,,,Relic: Ignitious Ignite
-buffRelicIgnitiousDoTDesc,buffs,Buff,,,Taking Burning Damage over Time from Ignitious.
+modRelicIgnitious,item_modifiers,Mod,,,"Relic: Ignitious","遗物：燃烬"
+relicIgnitiousBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nRegular Hit: 25% chance for Effect. Ignores Cooldown.\nPower Attack Hit: 100% chance for Effect.\nCauses nearby enemies to become Ignited for 4 seconds.\n(12 Second Cooldown)","可镶嵌于胸甲物品。\n普通攻击：25% 几率触发效果。无视冷却。\n重击命中：100% 几率触发效果。\n使附近敌人进入点燃状态，持续 4 秒。\n（12 秒冷却）"
+buffRelicEquippedIgnitiousCDName,buffs,Buff,,,Relic: Ignitious Cooldown,"遗物：燃烬 冷却"
+buffRelicEquippedIgnitiousCDDesc,buffs,Buff,,,Ignitious is recharging.,"燃烬正在充能。"
+buffRelicIgnitiousDoTName,buffs,Buff,,,Relic: Ignitious Ignite,"遗物：燃烬 点燃"
+buffRelicIgnitiousDoTDesc,buffs,Buff,,,Taking Burning Damage over Time from Ignitious.,"正受到燃烬造成的燃烧持续伤害。"
 
-modRelicFrigus,item_modifiers,Mod,,,"Relic: Frigus"
-relicFrigusBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nRegular Hit: 25% chance for Effect. Ignores Cooldown.\nPower Attack Hit: 100% chance for Effect.\nCauses nearby enemies to become Chilled for 3 seconds.\n(12 Second Cooldown)"
-buffRelicEquippedFrigusCDName,buffs,Buff,,,Relic: Frigus Cooldown
-buffRelicEquippedFrigusCDDesc,buffs,Buff,,,Frigus is recharging.
-buffRelicFrigusEffectName,buffs,Buff,,,Relic: Frigus Chilled
-buffRelicFrigusEffectDesc,buffs,Buff,,,Slowed Movement and Attack Speed.
+modRelicFrigus,item_modifiers,Mod,,,"Relic: Frigus","遗物：寒霜"
+relicFrigusBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nRegular Hit: 25% chance for Effect. Ignores Cooldown.\nPower Attack Hit: 100% chance for Effect.\nCauses nearby enemies to become Chilled for 3 seconds.\n(12 Second Cooldown)","可镶嵌于胸甲物品。\n普通攻击：25% 几率触发效果。无视冷却。\n重击命中：100% 几率触发效果。\n使附近敌人进入寒冷状态，持续 3 秒。\n（12 秒冷却）"
+buffRelicEquippedFrigusCDName,buffs,Buff,,,Relic: Frigus Cooldown,"遗物：寒霜 冷却"
+buffRelicEquippedFrigusCDDesc,buffs,Buff,,,Frigus is recharging.,"寒霜正在充能。"
+buffRelicFrigusEffectName,buffs,Buff,,,Relic: Frigus Chilled,"遗物：寒霜 寒冷"
+buffRelicFrigusEffectDesc,buffs,Buff,,,Slowed Movement and Attack Speed.,"移动和攻击速度降低。"
 
-modRelicFulgor,item_modifiers,Mod,,,"Relic: Fulgor"
-relicFulgorBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nRegular Hit: 25% chance for Effect. Ignores Cooldown.\nPower Attack Hit: 100% chance for Effect.\nCauses nearby enemies to become Shocked for 2 seconds.\n(12 Second Cooldown)"
-buffRelicEquippedFulgorCDName,buffs,Buff,,,Relic: Fulgor Cooldown
-buffRelicEquippedFulgorCDDesc,buffs,Buff,,,Fulgor is recharging.
+modRelicFulgor,item_modifiers,Mod,,,"Relic: Fulgor","遗物：雷光"
+relicFulgorBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nRegular Hit: 25% chance for Effect. Ignores Cooldown.\nPower Attack Hit: 100% chance for Effect.\nCauses nearby enemies to become Shocked for 2 seconds.\n(12 Second Cooldown)","可镶嵌于胸甲物品。\n普通攻击：25% 几率触发效果。无视冷却。\n重击命中：100% 几率触发效果。\n使附近敌人进入电击状态，持续 2 秒。\n（12 秒冷却）"
+buffRelicEquippedFulgorCDName,buffs,Buff,,,Relic: Fulgor Cooldown,"遗物：雷光 冷却"
+buffRelicEquippedFulgorCDDesc,buffs,Buff,,,Fulgor is recharging.,"雷光正在充能。"
 
-modRelicFistOfFury,item_modifiers,Mod,,,"Relic: Fist of Fury"
-relicFistOfFuryBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nBrawler attacks grants a Fist of Fury Charge.\nCharge 1: +35% Attack Speed\nCharge 2: +35% Damage\nCharge 3: Knockback\nFist of Fury Charges reset after the 3rd charge."
-buffRelicEquippedFistOfFuryName,buffs,Buff,,,Relic: Fist of Fury
-buffRelicEquippedFistOfFuryDesc,buffs,Buff,,,Gain effects per charge
+modRelicFistOfFury,item_modifiers,Mod,,,"Relic: Fist of Fury","遗物：狂怒之拳"
+relicFistOfFuryBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nBrawler attacks grants a Fist of Fury Charge.\nCharge 1: +35% Attack Speed\nCharge 2: +35% Damage\nCharge 3: Knockback\nFist of Fury Charges reset after the 3rd charge.","可镶嵌于胸甲物品。\n徒手攻击可获得一层狂怒之拳充能。\n充能 1：+35% 攻击速度\n充能 2：+35% 伤害\n充能 3：击退\n狂怒之拳充能在第 3 层后重置。"
+buffRelicEquippedFistOfFuryName,buffs,Buff,,,Relic: Fist of Fury,"遗物：狂怒之拳"
+buffRelicEquippedFistOfFuryDesc,buffs,Buff,,,Gain effects per charge,"每层充能提供效果"
 
-modRelicGrandTemplar,item_modifiers,Mod,,,"Relic: Grand Templar"
-relicGrandTemplarBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nWhile wielding a Club you and allies gain:\n+25 Max Health and Stamina\n+25% Damage\n+10% Attack and Movement Speed"
-buffRelicGrandTemplarAllyName,buffs,Buff,,,Relic: Grand Templar
-buffRelicGrandTemplarAllyDesc,buffs,Buff,,,Gain boost to Health, Stamina, Damage, Attack Speed and Movement Speed
+modRelicGrandTemplar,item_modifiers,Mod,,,"Relic: Grand Templar","遗物：圣殿骑士长"
+relicGrandTemplarBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nWhile wielding a Club you and allies gain:\n+25 Max Health and Stamina\n+25% Damage\n+10% Attack and Movement Speed","可镶嵌于胸甲物品。\n手持棍棒时，你与队友获得：\n+25 最大生命和体力\n+25% 伤害\n+10% 攻击和移动速度"
+buffRelicGrandTemplarAllyName,buffs,Buff,,,Relic: Grand Templar,"遗物：圣殿骑士长"
+buffRelicGrandTemplarAllyDesc,buffs,Buff,,,"Gain boost to Health, Stamina, Damage, Attack Speed and Movement Speed","提升生命、体力、伤害、攻击速度和移动速度"
 
-modRelicUnchained,item_modifiers,Mod,,,"Relic: Unchained"
-relicUnchainedBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+5% Damage per Strength\n+3% Attack Speed per Agility\n+1% Damage Mitigation per Fortitude"
-buffRelicEquippedUnchainedName,buffs,Buff,,,Relic: Unchained
-buffRelicEquippedUnchainedDesc,buffs,Buff,,,Gain boost to stats based on attribute levels
+modRelicUnchained,item_modifiers,Mod,,,"Relic: Unchained","遗物：破笼"
+relicUnchainedBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+5% Damage per Strength\n+3% Attack Speed per Agility\n+1% Damage Mitigation per Fortitude","可镶嵌于胸甲物品。\n每点力量 +5% 伤害\n每点敏捷 +3% 攻击速度\n每点耐力 +1% 伤害减免"
+buffRelicEquippedUnchainedName,buffs,Buff,,,Relic: Unchained,"遗物：破笼"
+buffRelicEquippedUnchainedDesc,buffs,Buff,,,Gain boost to stats based on attribute levels,"根据属性等级提升各项属性"
 
-modRelicSlaughter,item_modifiers,Mod,,,"Relic: Slaughter"
-relicSlaughterBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nMelee and Archery hits grants a Slaughter Charge.\n+50% Attack Speed per Slaughter Charge\nSlaughter Charges reset after the 2nd charge.\n(Effects of Slaughter Charge doubled if using axes)"
-buffRelicEquippedSlaughterName,buffs,Buff,,,Relic: Slaughter
-buffRelicEquippedSlaughterDesc,buffs,Buff,,,Gain effects per charge
+modRelicSlaughter,item_modifiers,Mod,,,"Relic: Slaughter","遗物：屠戮"
+relicSlaughterBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nMelee and Archery hits grants a Slaughter Charge.\n+50% Attack Speed per Slaughter Charge\nSlaughter Charges reset after the 2nd charge.\n(Effects of Slaughter Charge doubled if using axes)","可镶嵌于胸甲物品。\n近战和弓箭命中可获得一层屠戮充能。\n每层屠戮充能 +50% 攻击速度\n屠戮充能在第 2 层后重置。\n（使用斧头时屠戮充能效果翻倍）"
+buffRelicEquippedSlaughterName,buffs,Buff,,,Relic: Slaughter,"遗物：屠戮"
+buffRelicEquippedSlaughterDesc,buffs,Buff,,,Gain effects per charge,"每层充能提供效果"
 
-modRelicMechagrasp,item_modifiers,Mod,,,"Relic: Mecha Grasp"
-relicMechagraspBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nEach point in Electrocutioner generates more Shock Charge over time. At 100 Shock Charge: Robotic Sledge, Melee, and Archery will shock enemies on hit and resets Shock Charge."
-buffRelicEquippedMechagraspChargeName,buffs,Buff,,,Relic: Mecha Grasp Charging
-buffRelicEquippedMechagraspChargeDesc,buffs,Buff,,,Charging up to 100
+modRelicMechagrasp,item_modifiers,Mod,,,"Relic: Mecha Grasp","遗物：机械之握"
+relicMechagraspBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nEach point in Electrocutioner generates more Shock Charge over time. At 100 Shock Charge: Robotic Sledge, Melee, and Archery will shock enemies on hit and resets Shock Charge.","可镶嵌于胸甲物品。\n电击专家每提升一点，都会随时间产生更多电击充能。达到 100 电击充能时：机械雪橇、近战和弓箭命中敌人会电击敌人并重置电击充能。"
+buffRelicEquippedMechagraspChargeName,buffs,Buff,,,Relic: Mecha Grasp Charging,"遗物：机械之握 充能"
+buffRelicEquippedMechagraspChargeDesc,buffs,Buff,,,Charging up to 100,"正在充能，直至 100"
 
-modRelicQuillRain,item_modifiers,Mod,,,"Relic: Quill Rain"
-relicQuillRainBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+150% Attack Speed with Archery\n-35% Damage with Archery"
+modRelicQuillRain,item_modifiers,Mod,,,"Relic: Quill Rain","遗物：羽雨"
+relicQuillRainBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+150% Attack Speed with Archery\n-35% Damage with Archery","可镶嵌于胸甲物品。\n+150% 弓箭攻击速度\n-35% 弓箭伤害"
 
-modRelicWindForce,item_modifiers,Mod,,,"Relic: Wind Force"
-relicWindForceBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nGenerate Wind Force Charge on hitting an enemy with Archery.\nCharge Effect: Knockback enemies on hit.(Radius 2 Meters)\nFinal Charge: Knock Down enemies on hit (Radius 3 Meters).\nWind Force Charges reset after the 5th charge."
-buffRelicEquippedWindForceName,buffs,Buff,,,Relic: Wind Force
-buffRelicEquippedWindForceDesc,buffs,Buff,,,Gain effects with charges
+modRelicWindForce,item_modifiers,Mod,,,"Relic: Wind Force","遗物：风之力"
+relicWindForceBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nGenerate Wind Force Charge on hitting an enemy with Archery.\nCharge Effect: Knockback enemies on hit.(Radius 2 Meters)\nFinal Charge: Knock Down enemies on hit (Radius 3 Meters).\nWind Force Charges reset after the 5th charge.","可镶嵌于胸甲物品。\n使用弓箭命中敌人时产生风之力充能。\n充能效果：命中时击退敌人。（半径 2 米）\n最终充能：命中时击倒敌人（半径 3 米）。\n风之力充能在第 5 层后重置。"
+buffRelicEquippedWindForceName,buffs,Buff,,,Relic: Wind Force,"遗物：风之力"
+buffRelicEquippedWindForceDesc,buffs,Buff,,,Gain effects with charges,"通过充能获得效果"
 
-modRelicMagnatide,item_modifiers,Mod,,,"Relic: Magnatide"
-relicMagnatideBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nPower Attack knock enemies towards you."
+modRelicMagnatide,item_modifiers,Mod,,,"Relic: Magnatide","遗物：磁潮"
+relicMagnatideBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nPower Attack knock enemies towards you.","可镶嵌于胸甲物品。\n重击会将敌人击向你的方向。"
 
-modRelicMechanergy,item_modifiers,Mod,,,"Relic: Mechanergy"
-relicMechanergyBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+5% Stamina Regen per Intellect point\n+5 Max Stamina per Intellect point"
+modRelicMechanergy,item_modifiers,Mod,,,"Relic: Mechanergy","遗物：机械能"
+relicMechanergyBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+5% Stamina Regen per Intellect point\n+5 Max Stamina per Intellect point","可镶嵌于胸甲物品。\n每点智力 +5% 体力回复\n每点智力 +5 最大体力"
 
-modRelicVanSwiftsSickle,item_modifiers,Mod,,,"Relic: Van Swift's Sickle"
-relicVanSwiftsSickleBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nGain a Swift Charge on hitting an enemy.\n+5% Attack Speed per Swift Charge.\n+5% Movement Speed per Swift Charge.\nSwift Charge last for 8 seconds.\n(Effects of Swift Charge doubled if using blades or knifes)\n(6 Charge Limit)"
-buffRelicEquippedVanSwiftsSickleName,buffs,Buff,,,Relic: Van Swift's Sickle
-buffRelicEquippedVanSwiftsSickleDesc,buffs,Buff,,,Gain effects with charges
-buffSwiftChargeName,buffs,Buff,,,Swift Charge
-buffSwiftChargeDesc,buffs,Buff,,,Gain effects with charges
+modRelicVanSwiftsSickle,item_modifiers,Mod,,,"Relic: Van Swift's Sickle","遗物：范·斯威夫特的镰刀"
+relicVanSwiftsSickleBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nGain a Swift Charge on hitting an enemy.\n+5% Attack Speed per Swift Charge.\n+5% Movement Speed per Swift Charge.\nSwift Charge last for 8 seconds.\n(Effects of Swift Charge doubled if using blades or knifes)\n(6 Charge Limit)","可镶嵌于胸甲物品。\n命中敌人时获得一层迅捷充能。\n每层迅捷充能 +5% 攻击速度。\n每层迅捷充能 +5% 移动速度。\n迅捷充能持续 8 秒。\n（使用刀剑或小刀时迅捷充能效果翻倍）\n（充能上限 6）"
+buffRelicEquippedVanSwiftsSickleName,buffs,Buff,,,Relic: Van Swift's Sickle,"遗物：范·斯威夫特的镰刀"
+buffRelicEquippedVanSwiftsSickleDesc,buffs,Buff,,,Gain effects with charges,"通过充能获得效果"
+buffSwiftChargeName,buffs,Buff,,,Swift Charge,"迅捷充能"
+buffSwiftChargeDesc,buffs,Buff,,,Gain effects with charges,"通过充能获得效果"
 
-modRelicExploit,item_modifiers,Mod,,,"Relic: Exploit"
-relicExploitBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+25% Armor Penetration with Melee, Archery, and Robotics.\n+100% Armor Penetration with Spears and Batons."
+modRelicExploit,item_modifiers,Mod,,,"Relic: Exploit","遗物：破绽"
+relicExploitBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+25% Armor Penetration with Melee, Archery, and Robotics.\n+100% Armor Penetration with Spears and Batons.","可镶嵌于胸甲物品。\n+25% 近战、弓箭和机器人护甲穿透。\n+100% 长矛和电棍护甲穿透。"
 
-modRelicMechaEscavator,item_modifiers,Mod,,,"Relic: Mecha Escavator"
-relicMechaEscavatorBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nWhile holding a Robotic Sledge:\nMine ore without harvest penalty\n+15% Ore Harvest Quantity\n100% Chance to 1-shot Ore\n75% Less Attack Speed"
+modRelicMechaEscavator,item_modifiers,Mod,,,"Relic: Mecha Escavator","遗物：机械挖掘者"
+relicMechaEscavatorBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nWhile holding a Robotic Sledge:\nMine ore without harvest penalty\n+15% Ore Harvest Quantity\n100% Chance to 1-shot Ore\n75% Less Attack Speed","可镶嵌于胸甲物品。\n手持机械雪橇时：\n挖矿无采集惩罚\n+15% 矿石采集数量\n100% 几率一击击碎矿石\n攻击速度降低 75%"
 
-modRelicButcher,item_modifiers,Mod,,,"Relic: Butcher"
-relicButcherBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nEach Rank in The Huntsman grants\n+10% Harvest Quantity from Corpses.\n+7% Damage to Animals.\n+7% Damage with Knifes and Blades."
+modRelicButcher,item_modifiers,Mod,,,"Relic: Butcher","遗物：屠夫"
+relicButcherBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nEach Rank in The Huntsman grants\n+10% Harvest Quantity from Corpses.\n+7% Damage to Animals.\n+7% Damage with Knifes and Blades.","可镶嵌于胸甲物品。\n猎人每提升一级，提供\n+10% 尸体采集数量。\n+7% 对动物伤害。\n+7% 小刀与刀剑伤害。"
 
-modRelicMechaGladiator,item_modifiers,Mod,,,"Relic: Mecha Gladiator"
-relicMechaGladiatorBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nWhile holding a Robotic Sledge:\n+75% Robotic Sledge Damage.\n+50% Robotic Sledge Attack Speed.\n+1 Robotic Sledge Attack Range."
+modRelicMechaGladiator,item_modifiers,Mod,,,"Relic: Mecha Gladiator","遗物：机械角斗士"
+relicMechaGladiatorBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nWhile holding a Robotic Sledge:\n+75% Robotic Sledge Damage.\n+50% Robotic Sledge Attack Speed.\n+1 Robotic Sledge Attack Range.","可镶嵌于胸甲物品。\n手持机械雪橇时：\n+75% 机械雪橇伤害。\n+50% 机械雪橇攻击速度。\n+1 机械雪橇攻击距离。"
 
-modRelicCombatantsReach,item_modifiers,Mod,,,"Relic: Combatant's Reach"
-relicCombatantsReachBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+0.5 Melee Attack Range."
+modRelicCombatantsReach,item_modifiers,Mod,,,"Relic: Combatant's Reach","遗物：斗士之距"
+relicCombatantsReachBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+0.5 Melee Attack Range.","可镶嵌于胸甲物品。\n+0.5 近战攻击距离。"
 
-modRelicMechaCorpBadge,item_modifiers,Mod,,,"Relic: Mecha Corp Badge"
-relicMechaCorpBadgeBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nEach point in Robotics Inventor grants:\n+15% Robotic Sledge Damage.\n+10 Robotic Turret Magazine Capacity.\n+5% Robotic Attack Speed.\nRobotics Degrade 5% Slower."
+modRelicMechaCorpBadge,item_modifiers,Mod,,,"Relic: Mecha Corp Badge","遗物：机械公司徽章"
+relicMechaCorpBadgeBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nEach point in Robotics Inventor grants:\n+15% Robotic Sledge Damage.\n+10 Robotic Turret Magazine Capacity.\n+5% Robotic Attack Speed.\nRobotics Degrade 5% Slower.","可镶嵌于胸甲物品。\n机器人发明家每提升一点，提供：\n+15% 机械雪橇伤害。\n+10 机器人炮塔弹匣容量。\n+5% 机器人攻击速度。\n机器人损耗降低 5%。"
 
-modRelicSelfDamnation,item_modifiers,Mod,,,"Relic: Self Damnation"
-relicSelfDamnationBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+6% Damage per Debuff on you.\n+6% Attack Speed per Debuff on you.\n+6% Movement Speed per Debuff on you."
+modRelicSelfDamnation,item_modifiers,Mod,,,"Relic: Self Damnation","遗物：自我诅咒"
+relicSelfDamnationBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+6% Damage per Debuff on you.\n+6% Attack Speed per Debuff on you.\n+6% Movement Speed per Debuff on you.","可镶嵌于胸甲物品。\n身上每层减益 +6% 伤害。\n身上每层减益 +6% 攻击速度。\n身上每层减益 +6% 移动速度。"
 
-modRelicShadowSight,item_modifiers,Mod,,,"Relic: Shadow Sight"
-relicShadowSightBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+15% Improved Sneaking.\n+25% Sneak Damage.\n+25% Crouch Speed.\n+15% EXP with Stealth Kills."
+modRelicShadowSight,item_modifiers,Mod,,,"Relic: Shadow Sight","遗物：暗影视觉"
+relicShadowSightBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+15% Improved Sneaking.\n+25% Sneak Damage.\n+25% Crouch Speed.\n+15% EXP with Stealth Kills.","可镶嵌于胸甲物品。\n+15% 潜行能力提升。\n+25% 潜行伤害。\n+25% 蹲伏速度。\n+15% 潜行击杀经验值。"
 
-modRelicMechaJoltpack,item_modifiers,Mod,,,"Relic: Mecha Joltpack"
-relicMechaJoltpackBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nYou are Shocked.\nSlow effects from Shock are inverted."
-buffRelicMechaJoltpackName,buffs,Buff,,,Relic: Mecha Joltpack
-buffRelicMechaJoltpackDesc,buffs,Buff,,,You are Shocked. Taking damage over time but Slow effects from Shock are inverted.
-buffRelicMechaJoltpackTooltip,buffs,Buff,,,You are Shocked. Taking damage over time but Slow effects from Shock are inverted.
+modRelicMechaJoltpack,item_modifiers,Mod,,,"Relic: Mecha Joltpack","遗物：机械电击包"
+relicMechaJoltpackBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nYou are Shocked.\nSlow effects from Shock are inverted.","可镶嵌于胸甲物品。\n你处于电击状态。\n电击造成的减速效果被反转。"
+buffRelicMechaJoltpackName,buffs,Buff,,,Relic: Mecha Joltpack,"遗物：机械电击包"
+buffRelicMechaJoltpackDesc,buffs,Buff,,,You are Shocked. Taking damage over time but Slow effects from Shock are inverted.,"你处于电击状态。持续受到伤害，但电击造成的减速效果被反转。"
+buffRelicMechaJoltpackTooltip,buffs,Buff,,,You are Shocked. Taking damage over time but Slow effects from Shock are inverted.,"你处于电击状态。持续受到伤害，但电击造成的减速效果被反转。"
 
-modRelicAudiocator,item_modifiers,Mod,,,"Relic: Audiocator"
-relicAudiocatorBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+500% Noise Multiplier."
+modRelicAudiocator,item_modifiers,Mod,,,"Relic: Audiocator","遗物：扩音器"
+relicAudiocatorBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+500% Noise Multiplier.","可镶嵌于胸甲物品。\n+500% 噪音倍率。"
 
-modRelicTrauma,item_modifiers,Mod,,,"Relic: Trauma"
-relicTraumaBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nHitting an enemy applies Trauma.\nTrauma:\nTake 25% More Damage.\n-35% Move and Attack Speed."
-buffRelicTraumaEffectName,buffs,Buff,,,Relic: Trauma
-buffRelicTraumaEffectDesc,buffs,Buff,,,Take 25% More Damage.\n-35% Move and Attack Speed.
+modRelicTrauma,item_modifiers,Mod,,,"Relic: Trauma","遗物：创伤"
+relicTraumaBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nHitting an enemy applies Trauma.\nTrauma:\nTake 25% More Damage.\n-35% Move and Attack Speed.","可镶嵌于胸甲物品。\n命中敌人施加创伤。\n创伤：\n受到伤害提高 25%。\n-35% 移动和攻击速度。"
+buffRelicTraumaEffectName,buffs,Buff,,,Relic: Trauma,"遗物：创伤"
+buffRelicTraumaEffectDesc,buffs,Buff,,,Take 25% More Damage.\n-35% Move and Attack Speed.,"受到伤害提高 25%。\n-35% 移动和攻击速度。"
 
-modRelicHeavyWeight,item_modifiers,Mod,,,"Relic: Heavy Weight"
-relicHeavyWeightBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nWhile wielding a Two-handed melee weapon\n(Sledgehammer, Axe, Spears)\n+100% Entity Damage\n+50% Block Damage\n-35% Attack Speed"
+modRelicHeavyWeight,item_modifiers,Mod,,,"Relic: Heavy Weight","遗物：重型"
+relicHeavyWeightBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\nWhile wielding a Two-handed melee weapon\n(Sledgehammer, Axe, Spears)\n+100% Entity Damage\n+50% Block Damage\n-35% Attack Speed","可镶嵌于胸甲物品。\n手持双手近战武器时\n（大锤、斧头、长矛）\n+100% 实体伤害\n+50% 方块伤害\n-35% 攻击速度"
 
-modRelicFeatherFate,item_modifiers,Mod,,,"Relic: Feather Fate"
-relicFeatherFateBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+15% Movement Speed\n+3% Movement Speed per Cardio perk point.\n+2% Movement Speed per Daring Adventurer perk point."
+modRelicFeatherFate,item_modifiers,Mod,,,"Relic: Feather Fate","遗物：命运之羽"
+relicFeatherFateBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n+15% Movement Speed\n+3% Movement Speed per Cardio perk point.\n+2% Movement Speed per Daring Adventurer perk point.","可镶嵌于胸甲物品。\n+15% 移动速度\n每点有氧运动技能 +3% 移动速度。\n每点大胆冒险家技能 +2% 移动速度。"
+buffRelicFeatherFateName,buffs,Buff,,,Relic: Feather Fate,"遗物：命运之羽"
 
 
-modRelicTest,item_modifiers,Mod,,,"Relic: Test"
-relicTestBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n XXX"
-buffRelicEquippedTestName,buffs,Buff,,,Relic: Test
-buffRelicEquippedTestDesc,buffs,Buff,,,Testing something plz hold
+modRelicTest,item_modifiers,Mod,,,"Relic: Test","遗物：测试"
+relicTestBasicDesc,item_modifiers,Mod,,,"Sockets into Chest Armor items.\n XXX","可镶嵌于胸甲物品。\n XXX"
+buffRelicEquippedTestName,buffs,Buff,,,Relic: Test,"遗物：测试"
+buffRelicEquippedTestDesc,buffs,Buff,,,Testing something plz hold,"正在测试，请稍候"
 
-armorRelicTabulaRasa,items,Clothes,,,Tabula Rasa
-uniqueTabulaRasaDesc,items,Clothes,,,Modifier Slots: 6
-statTabulaRasa,ui_display,Item stat,,,Modifier Slots:
+armorRelicTabulaRasa,items,Clothes,,,Tabula Rasa,"空白之躯"
+uniqueTabulaRasaDesc,items,Clothes,,,Modifier Slots: 6,"模组槽位：6"
+statTabulaRasa,ui_display,Item stat,,,Modifier Slots:,"模组槽位："
